@@ -1,12 +1,15 @@
 ---
 layout: page
-title: 旅遊歷
+title: 四處走走
 permalink: /about/travel-history
 display: false
 ---
 
 ![釧路](/images/about-travel.jpeg)
 *冬日的釧路*
+
+### '21年
+01.01 看日出
 
 ### '20年
 01.18 神戶一日遊<br>
@@ -19,7 +22,8 @@ display: false
 10.22 鳥取浦富海岸、砂丘（巴士團）<br>
 10.24 廣島宮島<br>
 11.01 奈良吉野山、曽爾高原（巴士團）<br>
-11.07 京都髙雄賞楓
+11.07 京都髙雄賞楓<br>
+12月  來日後首次在楓葉季瘋狂拜訪各賞楓名所<br>
 
 ### '19年
 02.06-02.10 道東釧路、摩周、川湯溫泉、網走<br>
