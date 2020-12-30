@@ -1,26 +1,55 @@
 ---
 layout: page
-title: About
+title: 關於我
 permalink: /about/
 image: 01.jpg
 ---
 
-Hi, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+*首圖：岡崎神社（京都市）*
+
+打家豪，我是 Jo（我姓氏的日文發音）。或是叫我哈那也可以。<br>
+之前我自己架的 wordpress 被駭了，我真是不中用。於是我搬到 github 了。<br>
+這個 jekyll 樣式很美，作者好人ㄧ生平安。有意請戳 [zolan](https://github.com/artemsheludko/zolan)。
+
+### 關於我
+
+覺得血型性格對Ｂ型人的分析跟自己很符合。<br>
+喜歡貓咪跟粉紅色。<br>
+喜歡自己去旅行跟收集明信片。<br>
+
+> 編輯器的字型大小從五年前的 16 px 到現在設 18 px。
 
 ***
 
-#### Austin scenester...
-<small>2008 - 2018</small>
+#### 打工度假 - 福岡
+<small>2017.04 - 2017.12</small>
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+一開始到日本在福岡待了八個月，這八個月都在一蘭端麵。但是[一個不重要的情報]我並不喜歡吃一蘭。
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+#### 大阪
+<small>2017.12 - 2019.08</small>
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+選了大阪的旅遊專門學校，為了<del>唸書</del>[留日簽證]我在 '17 年年底搬來大阪繼續打工，順利在 '18 年 4 月入學。<br>
+念專門學校的日子並不愉快，有空寫一篇講一下為什麼。<br>
+讀了一年我就早期入社去京都旅行社上班了。
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+#### 京都
+<small>2019.09 - 現在</small>
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+上工前回台灣過了一個月暑假，接著一直在京都生活。<br>
+希望沒有意外的繼續這樣的日子。
+
+***
+一些我想貼在自己身上的標籤：
+
+<a href="/about/travel-history">![關於我：旅行中毒]({{ site.baseurl }}/images/about-me-01.png)</a> | <a href="/about/bandfan-history">![關於我：不專業迷妹]({{ site.baseurl }}/images/about-me-02.png)</a> | <a href="javascript:void(0);">![關於我：生酮烘培初心者]({{ site.baseurl }}/images/about-me-03.png)</a>
+
+***
+
+### 關於這個網站
+網站的名字是 [ Jo in Japan ]，就在日本。老派諧音梗我一直都很愛。<br>
+曾經我也想成為專業外語導遊才會跑去念觀光專門學校。<br>
+'20 年 9 月從旅行社離職並經歷轉職之後，目前是非旅行業的安定溫順社畜。
+
+為了不忘初心想把自己的旅遊經驗跟生活點滴記錄下來，單純做興趣的。<br>
+也打算偶爾寫一些[也許政治沒那麼正確的]個人觀察見聞。

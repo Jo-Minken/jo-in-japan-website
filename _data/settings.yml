@@ -1,42 +1,42 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
-logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+title: Jo in Japan
+logo: logo.png # You can add own logo.
+description: "記錄我在日本生活的點點滴滴。"
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
+  name: Jo
   image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  say-hello: 你好，我是 <strong>Jo</strong>。<br>也可以叫我哈那。
+  bio: 住京都的台灣人，追團迷妹。<br>這裡是我的流水帳，記錄我在日本生活的點點滴滴。
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+twitter: https://twitter.com/sndhn/ # Add your Twitter handle
+facebook: #https://facebook.com/ # Add your Facebook handle
+dribbble: #https://dribbble.com/ # Add your Dribbble handle
+instagram: https://instagram.com/jo_540928/ # Add your Instagram handle
+pinterest: #https://pinterest.com/ # Add your Pinterest handle
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: hanahsu # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Instagram Feed
-instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: #artemsheludko_ # Add instagram username
 
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: UA-21082514-4 # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
