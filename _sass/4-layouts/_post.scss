@@ -142,6 +142,8 @@
 
     .post__nav__image {
       display: block;
+      max-width: 450px;
+      margin: 0 auto;
       margin-bottom: 40px;
       background-position: center;
       background-size: cover;
@@ -169,7 +171,9 @@
       
       a {
         display: inline-block;
-        max-width: 250px;
+        /* max-width: 250px; */
+        max-width: 88%;
+        font-size: 14px;
         padding: 0 10px;
         vertical-align: middle;
         white-space: nowrap;
@@ -218,6 +222,7 @@
     padding-bottom: 40px;
     .prev,
     .next {
+      max-width: 100%;
       .post__nav__image {
         margin-bottom: 20px;
       }
